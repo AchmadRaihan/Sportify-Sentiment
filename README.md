@@ -1,4 +1,4 @@
-# **Sentiment of the People on Sportify**  
+# **People Sentiment on Sportify**  
 
 ### **Dataset**  
 The dataset contains sentiment towards the [Spotify] app (https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset).  
