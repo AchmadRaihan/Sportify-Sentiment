@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+streamlit 
+numpy 
+pandas 
+matplotlib
+seaborn
+wordcloud
+=======
+streamlit 
+numpy 
+pandas 
+matplotlib
+seaborn
+wordcloud
+pickle
+>>>>>>> 30a8acd964f6dcb7c8d8e548705c13499f64046b
+tensorflow
